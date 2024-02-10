@@ -54,7 +54,7 @@ body{
 }
 
 p {
-    overflow: scroll;
+    overflow: auto;
 }
 
 .Header {
